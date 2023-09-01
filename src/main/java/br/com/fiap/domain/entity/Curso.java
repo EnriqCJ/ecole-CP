@@ -50,4 +50,7 @@ public class Curso {
     public String toString() {
         return id + " - " + nome + " - " + cargaHoraria + " horas";
     }
+
+    public long size() {
+    }
 }
